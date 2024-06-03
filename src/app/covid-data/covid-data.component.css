@@ -1,0 +1,103 @@
+/* Style for the select element */
+select {
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    color: #555;
+    appearance: none;
+  }
+  
+  /* Style for the table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  /* Style for table header */
+  th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  /* Style for table data cells */
+  td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  /* Style for table rows */
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style for table rows on hover */
+  tr:hover {
+    background-color: #ddd;
+  }
+
+  /* Style for the select element */
+select {
+  padding: 10px;
+  font-size: 18px;
+  border: 2px solid #4CAF50;
+  border-radius: 5px;
+  background-color: #f8f8f8;
+  color: #555;
+  appearance: none;
+  margin-bottom: 10px;
+}
+
+/* Style for the input elements */
+input[type="date"] {
+  padding: 10px;
+  font-size: 18px;
+  border: 2px solid #4CAF50;
+  border-radius: 5px;
+  background-color: #f8f8f8;
+  color: #555;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+/* Style for the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+/* Style for table header */
+th {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+/* Style for table data cells */
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+/* Style for table rows */
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Style for table rows on hover */
+tr:hover {
+  background-color: #ddd;
+}
+
+/* Style for the page background */
+body {
+  background-color: #f0f0f0; /* Change to your desired background color */
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
